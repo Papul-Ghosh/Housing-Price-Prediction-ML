@@ -1,8 +1,8 @@
 # ML-Housing-Price
  
-**Machine Learning Housing project with Scikit Learn**
+**Machine Learning Housing Price prediction with Scikit Learn**
  
- The task is to predict median house values in Californian districts, given a number of features from these districts.
+ The task is to predict median house values in California districts, given a number of features from these districts.
  
  Data source: raw.githubusercontent.com/ageron/handson-ml2/
 
@@ -30,7 +30,7 @@ stratified sampling is included here
 
 New features added: "rooms_per_household", "bedrooms_per_room", "population_per_household"
 
-Correlation (housing.corr()) between all the features with "median_house_value" is checked to fined strong ing´sights.
+Correlation (housing.corr()) between all the features with "median_house_value" is checked to find strong insights.
 
 
 **3. Data Preparation:**
